@@ -30,7 +30,7 @@ Compile with gcc:
 ```
 gcc JungleChess.c -o JungleChess -lncurses
 ```
-Run:
+Run (remember to set "Remote character set" to "Use font encoding" in PuTTY):
 ```
 ./JungleChess
 ```
